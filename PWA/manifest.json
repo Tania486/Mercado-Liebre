@@ -1,0 +1,30 @@
+{
+  "name": "Mercado Liebre",
+  "short_name": "Mercado Liebre",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbbc02",
+  "theme_color": "#fbbc02",
+  "description": "Una app para gestionar productos y ofertas.",
+  "icons": [
+      {
+          "src": "img/icons/icon-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+      },
+      {
+          "src": "img/icons/icon-512x512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+      }
+  ],
+  "orientation": "portrait",
+  "splashscreens": [
+      {
+          "src": "img/icons/splashscreen.png",
+          "sizes": "640x1136",
+          "type": "image/png"
+      }
+  ]
+}
+
